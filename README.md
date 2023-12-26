@@ -1,1 +1,1 @@
-Basic Javascript calculator
+Basic Javascript calculator ✨
